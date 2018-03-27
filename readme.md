@@ -50,7 +50,7 @@ Features, usage and installation instructions are summarized on [brew.sh](https:
 
 After getting FFmpeg installed, let's try it out on a video.
 
-> In this example, I am going to use a personal video of my New Year's Eve 2017 in Paris with my fiancée. See more amazing photos on our Instagram: [@marcosegborges](https://www.instagram.com/marcosegborges/) and [@musikasia_flute](https://www.instagram.com/musikasia_flute/).
+> In this example, I am going to use a personal video of my New Year's Eve 2017 in Paris with my fiancée. See more amazing photos on our Instagram: [@MarcosGomesBorges](https://www.instagram.com/MarcosGomesBorges/) and [@musikasia_flute](https://www.instagram.com/musikasia_flute/).
 
 ```
 ffmpeg -i video.m4v gif_1.gif
@@ -235,10 +235,10 @@ You can use the `-b` flag to specify the target bitrate. In this case, it runs a
 
 I am [Marcos Gomes-Borges](http://www.marcosgomesborges.com), a R&D Computer Vision Engineer.
 
-Feel free to contact me on my twitter [@MarcosEGBorges](http://twitter.com/MarcosEGBorges) to discuss any idea if you wish.
+Feel free to contact me on my twitter [@MGomesBorges](http://twitter.com/MGomesBorges) to discuss any idea if you wish.
 
 
-Instagram: [@marcosegborges](https://www.instagram.com/marcosegborges/) and [@musikasia_flute](https://www.instagram.com/musikasia_flute/).
+Instagram: [@MarcosGomesBorges](https://www.instagram.com/MarcosGomesBorges/) and [@musikasia_flute](https://www.instagram.com/musikasia_flute/).
 
 
 Let me know if there is anything I can explain in more detail, but do not ask me for help to install  things. Just google it!
