@@ -50,7 +50,7 @@ Features, usage and installation instructions are summarized on [brew.sh](https:
 
 After getting FFmpeg installed, let's try it out on a video.
 
-> In this example, I am going to use a personal video of my New Year's Eve 2017 in Paris with my fiancée. See more amazing photos on our Instagram: [@MarcosGomesBorges](https://www.instagram.com/MarcosGomesBorges/) and [@musikasia_flute](https://www.instagram.com/musikasia_flute/).
+> In this example, I am going to use a personal video of my New Year's Eve 2017 in Paris with my fiancée. See more amazing photos on our Instagram: [@MarcosGomesBorges](https://www.instagram.com/MarcosGomesBorges/) and [@musikasia_bk](https://www.instagram.com/musikasia_bk/).
 
 ```bash
 ffmpeg -i video.m4v gif_1.gif
@@ -170,7 +170,7 @@ It is possible to produce a `high-quality gif` with `reduced file size` using co
 
 ## How to create a video from images with FFmpeg
 
-For this example, we have four images from [@musikasia_flute](https://www.instagram.com/musikasia_flute/):
+For this example, we have four images from [@musikasia_bk](https://www.instagram.com/musikasia_bk/):
 
 * image_01.jpg
 * image_02.jpg
